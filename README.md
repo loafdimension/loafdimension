@@ -20,6 +20,9 @@ A mobile app in React Native for users to review beers, made in a team of 6 duri
 - My role: designing/implementing single beer & brewery pages, settings page, assisting with profile & map, spiking Firebase.
 - Learned: React Native, Tailwind CSS, team collaboration (Jira, standups), Expo, and Firebase.
 
+### [ESG_Data_Fetching](https://github.com/loafdimension/ESG_Data_Fetching)
+A script which fetches ESG related data from WikiRate and then puts it in to a specified output schema which can then be used to train an ML model. Completed as part of a technical assignment for an Internship.  
+Learned: Python, API wrappers, data quality considerations, schema validation, code optimisation methods (caching, batch API calls).
 
 ## 🛠️ Skills & Technologies
 
