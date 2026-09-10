@@ -1,6 +1,6 @@
 # Hi, I'm Morgan 👋
 
-Welcome to my GitHub profile! I’m 26, and have a unique background in Law, Recruitment, and Sport & Exercise Science (BSc, 2024). In 2025, I dove into Software Development, completing a 3-month JavaScript course and currently progressing through a Python course. I love learning new things, collaborating on projects, and solving real-world problems with code!
+Welcome to my GitHub profile! I’m 27, and have a unique background in Law, Recruitment, and Sport & Exercise Science (BSc, 2024). In 2025, I completed a 3 month Software Development in JavaScript, and I'm currently progressing through a Python course and exploring Data Science. I love learning new things, collaborating on projects, and working on solving real-world problems.
 
 
 ## 🚀 Featured Projects
