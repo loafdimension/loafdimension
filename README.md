@@ -1,6 +1,6 @@
 # Hi, I'm Morgan 👋
 
-Welcome to my GitHub profile! I’m 27, and have a unique background in Law, Recruitment, and Sport & Exercise Science (BSc, 2024). In 2025, I completed a 3 month Software Development in JavaScript, and I'm currently progressing through a Python course and exploring Data Science. I love learning new things, collaborating on projects, and working on solving real-world problems.
+Welcome to my GitHub profile! I’m 27, and have a unique background in Law, Recruitment, and Sport & Exercise Science (BSc, 2024). In 2025, I completed a 3 month Software Development in JavaScript, and I'm currently progressing through a Python course and exploring Data Science with a particular interest in Health related data. I love learning new things, collaborating on projects, and working on solving real-world problems.
 
 
 ## 🚀 Featured Projects
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m 27, and have a unique background in Law, Rec
 ### [Eventure](https://github.com/loafdimension/eventure)
 An event platform for small community businesses to create and share events with members.
 - Built solo for the Launchpad project by Tech Returners / North Coders.
-- Learned: working independently to deadlines (using Jira), planning & wireframing (by hand), designing component trees, Google API integration (calendar & OAuth), Supabase (auth, databases, RLS), and Tailwind CSS.
+- Learned: working independently to deadlines (using Jira), planning & wireframing, designing component trees, Google API integration (calendar & OAuth), Supabase (auth, databases, RLS), and Tailwind CSS.
 
 ### [Fruitful Discussions (Back-End)](https://github.com/loafdimension/fruitful-discussions-BE)
 A RESTful API for accessing application data, built with Express and PSQL.
@@ -39,7 +39,7 @@ HTML, CSS, React, React Native, Lighthouse, Axios
 Netlify, Render
 
 **Other:**  
-Figma, paired programming, technical communication, SDL, Agile/SCRUM, version control (git), CI/CD, Jira
+Figma, paired programming, SDL, Agile/SCRUM, version control (git), CI/CD, Jira
 
 
 ## 🌱 Current & Upcoming Projects
